@@ -1,0 +1,10 @@
+Example 8.2—Treadmill Walking Distance in Intermittent Claudication
+Patients were randomly assigned to receive either the new drug Novafylline,
+thought to reduce the symptoms of intermittent claudication, or a placebo in a
+4-month double-blind study. The primary measurement of efficacy is the
+walking distance on a treadmill until discontinuation due to claudication
+pain. A total of 38 patients underwent treadmill testing at baseline (Month-0)
+and at each of 4 monthly, follow-up visits. The treadmill walking distances (in
+meters) are shown in Table 8.6. Patients were stratified by sex. Is there any
+distinction in exercise tolerance profiles between patients who receive
+Novafylline and those on placebo?

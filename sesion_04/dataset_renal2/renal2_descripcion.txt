@@ -1,0 +1,7 @@
+obsn='observation number'
+micro24='prevalence of microalbuminuria at 6 years fu'
+int='intensive treatment (vs conventional)'
+hbael='level (%) of HbA1c at baseline'
+duration='prior duration of diabetes'
+sbp='systolic blood pressure (mm Hg)'
+female='female (vs male) gender
